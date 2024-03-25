@@ -7,5 +7,8 @@ function showName() {
 function showAddress() {
     console.log('qn');
 }
+function showAge() {
+    console.log('20');
+}
 
 
