@@ -4,5 +4,8 @@ function hello() {
 function showName() {
     console.log('name2');
 }
+function showAddress() {
+    console.log('qn');
+}
 
 
