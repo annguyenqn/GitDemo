@@ -4,6 +4,9 @@ function hello() {
 function showName() {
     console.log('name2');
 }
+function showAge() {
+    console.log('25');
+}
 
 function showAddress() {
     console.log('qn');
