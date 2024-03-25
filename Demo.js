@@ -5,7 +5,7 @@ function showName() {
     console.log('name2');
 }
 function showAge() {
-    console.log('25');
+    console.log('252');
 }
 
 function showAddress() {
